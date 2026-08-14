@@ -1,2 +1,1 @@
-# desktop_apps_widgets
-temperatura
+# desktop_app_Garzon-Jonatan
